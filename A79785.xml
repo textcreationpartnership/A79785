@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Dublin in Ireland. Relating how Colonell Jones Governour of the said city, with his forces, fell upon the Rebells, beat the whole Army, killed many, some prisoners taken, with much of their provisions and fore'd them to a flight.  In a letter to a member of the Honourable House of Commons.</title>
+            <author>H. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79785</idno>
+            <idno type="STC">Wing C43</idno>
+            <idno type="STC">Thomason E416_22</idno>
+            <idno type="STC">ESTC R204173</idno>
+            <idno type="STC">ESTC R204491</idno>
+            <idno type="EEBO-CITATION">99863981</idno>
+            <idno type="PROQUEST">99863981</idno>
+            <idno type="VID">161299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Dublin in Ireland. Relating how Colonell Jones Governour of the said city, with his forces, fell upon the Rebells, beat the whole Army, killed many, some prisoners taken, with much of their provisions and fore'd them to a flight.  In a letter to a member of the Honourable House of Commons.</title>
+                  <author>H. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings head in the Olde-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: H.C.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161299:1" rendition="simple:additions"/>
+            <p>NEWS From Dublin IN IRELAND. RELATING How Colonell JONES Governour of the ſaid City, with his Forces, fell upon the Rebells, beat the whole Army, killed many, ſome Priſoners taken, with much of their Proviſions and fore'd them to a flight. In a Letter to a Member of the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161299:2"/>
+            <pb n="1" facs="tcp:161299:2"/>
+            <head>Newes from Dublin in Ireland.</head>
+            <opener>
+               <salute>Honourable Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt of the third of this inſtant I cer<g ref="char:EOLhyphen"/>tified you of Colonell <hi>Jones,</hi> the Gover<g ref="char:EOLhyphen"/>nour of <hi>Dublin's</hi> taking the field with that ſmall party of 400. horſe here gar<g ref="char:EOLhyphen"/>riſoned; a ſmall Party conſidering the power of the enemy (now found to have been) 8000. foot, 2000. horſe, and a multitude of others, <hi>Owen Roe O Neale</hi> (the Rebels Ulſter Generall) was advanced into the heart of theſe our Garriſons (between us and Trim) and that within a few miles of this place, before the Governour received any intelligence of his moving.</p>
+            <p>On the third of November, the Governour advanced hence with 400. horſe, and 50. Dragoons, and upon ad<g ref="char:EOLhyphen"/>vertiſement given of a party of the enemies being about Caſtle-knock (within three miles of Dublin) he made thither, and commanded one Captain <hi>Otwey</hi> (of his owne Regiment) with 60. commanded horſe as a forlorn hope.</p>
+            <p>The Governour himſelf made a halt ſhort of Caſtle-knock, underſtanding that the whole body of the enemies horſe and foot lay two miles off at the church of Mallehe<g ref="char:EOLhyphen"/>dard, whereupon he gave orders for returning back to
+<pb n="2" facs="tcp:161299:3"/>
+Dublin thoſe Carriages that were following him, and that the foot in Dublin ſhould forthwith march towards him, therein preparing for the enemy ſhould he advance to<g ref="char:EOLhyphen"/>wards the City, or to attempt ſomething on him if ſtill quartering at Mallehedard.</p>
+            <p>At Caſtleknock aforeſaid, there was a party of the ene<g ref="char:EOLhyphen"/>mies horſe, and 60. foot ſent thither for deſtroying that part of our quarters; upon ſight of our forlorn hope then advancing the enemies horſe fled, whom ours purſued up to their maine body at Mallehedard, having in the chaſe ſlain and taken 11. Whereupon, anothers party of horſe and foot from the body of the enemy were drawn out whom Captain <hi>Otwey,</hi> with thoſe few of our forlorn hope, charged and killed of them above 80. this in full view, and very nigh the whole Army of the Rebells; after which he faced them about one houre, untill it was found that the enemies foot had the while marched away towards Fing<g ref="char:EOLhyphen"/>all, purpoſing that night to fire thoſe quarters between Dublin and Dregheda; which the enemies deſignes the Governour finding by ſome priſoners taken, he comman<g ref="char:EOLhyphen"/>ded back Captain <hi>Otwey</hi> with the forlorn hope, who retur<g ref="char:EOLhyphen"/>ning towards Caſtle-knock aforeſaid, met with thoſe ſixty foot of the enemies before mentioned, fleeing from ano<g ref="char:EOLhyphen"/>ther party of our horſe, moſt of whom Captain <hi>Otwey</hi> put to the ſword.</p>
+            <p>The Governour forthwith ſent to Sir <hi>Henry Titchburne,</hi> (at Trim) for drawing up to him with the horſe in the out-quarters, whoſe coming up to him he expected before he would engage upon ſo great a body of the Rebells horſe and foot.</p>
+            <p>That night the Governour ſent back to Dublin the foot, and having commanded 100. horſe towards Feltram for ſecuring the quarters towards the Sea ſide, and for ob<g ref="char:EOLhyphen"/>ſerving
+<pb n="3" facs="tcp:161299:3"/>
+the enemies motion, he himſelf with the reſt of the horſe returned back to Dublin, no proviſion being found neare him for his horſe, the enemy having deſtroyed all.</p>
+            <p>
+               <hi>Owen O Neale</hi> having the City on the right hand, mar<g ref="char:EOLhyphen"/>ched to a place called Dubber, within three miles of Dub<g ref="char:EOLhyphen"/>lin, which he fired, having his head quarters at Kilſhaghan, ſix miles Northward from Dublin; he that night by par<g ref="char:EOLhyphen"/>ties ſent out, burnt all the corn about him, making very great ſpoyle.</p>
+            <p>Thurſday, Novemb. 4. <hi>Owen O Neale</hi> marched to Bra<g ref="char:EOLhyphen"/>ſyle (an houſe belonging to the Lord chief Baron <hi>Bolton,</hi> within Fingall, which he burned, having firſt from thence by parties ſent out, burnt Carduffe (the Lord Chancellours houſe) and Luske, with what other miſchief he could ſud<g ref="char:EOLhyphen"/>denly doe in that part of the country, our Garriſon at Swords made good the Bawne there againſt the Rebells, whereby much Hay prepared for the Oxen of the Trayne was preſerved.</p>
+            <p>This day the Governour again took the field, with his 400. horſe (being his whole ſtrength of horſe hereabouts) drawing towards the enemy for cutting off ſtraglers (of whom many were met withall) and for keeping in the Re<g ref="char:EOLhyphen"/>bells (all that might be) from deſtroying the quarters, un<g ref="char:EOLhyphen"/>till he ſhould heare from Sir <hi>Henry Titchburne,</hi> which he hourely expected, but all that day he heard nothing of him; that night the Governour quartered at Donſinke, within three miles of Dublin, and three miles from the enemy, who that night quartered at Weganſtowne.</p>
+            <p>This day about 12 of the clock newes was brought to the Governour of Sir <hi>Henry Tichburnes</hi> coming up with Col. <hi>Penſonby,</hi> Col. <hi>Coots,</hi> and Sir <hi>Thomas Armeſtrongs</hi> Re<g ref="char:EOLhyphen"/>giments of Horſe, which with the Governours party made up a body of 1400 horſe: Whereupon the Governour
+<pb n="4" facs="tcp:161299:4"/>
+forthwith about midnight ſent orders to Dublin for the Foot to draw out, and with all ſpeed to advance towards him, appointing the Rendezvouze the next morning at Pierces Towne, eight miles from Dublin, purpoſing by croſſing the Countrey to ſtop <hi>Owen O Neile</hi> in his march back, being informed that he had been then at Baldengan rowards the ſea ſide, purpoſing to bend towards Droghe<g ref="char:EOLhyphen"/>dah quarters for ſpoyling thereabouts as elſewhere he had done.</p>
+            <p>But the Rebels having intelligence of the coming up of the Horſe to the Governour, and of the marching of the Foot, he ſuddenly changed his courſe, marching back again by Crixtowne, Kilbrewe, and Ratoth, burning as he went. This he did betimes on Friday morning the fifth of this in<g ref="char:EOLhyphen"/>ſtant. Our Foot not being yet come up as was expected, the Governour with his Horſe following, the Enemy, com<g ref="char:EOLhyphen"/>ming up within a mile of him, and ſending out parties to ingage the Enemy in ſome ſort untill the coming up of our Foot; but the Rebels marched off as faſt as they could, our men killing many of them, and from out their body took away ſome Cattell.</p>
+            <p>This night the Rebels made ſhew of quartering at a place called Clunmullin neere a bogge ſide, where the Go<g ref="char:EOLhyphen"/>vernour had hope he might gaine time of falling in upon him if his Foot had come up.</p>
+            <p>This night our Foot from Dublin (about 3000) came up to Pierces Towne, where had they come ſooner, it was hoped (by the bleſſing of God) the Rebels power in Lein<g ref="char:EOLhyphen"/>ſter had been quite broken.</p>
+            <p>The Governour had that night ſent out ſeverall parties to allarm the Enemy, thereby to ingage them untill he could with his Foot march up towards them; but the Ene<g ref="char:EOLhyphen"/>my having made ſhew of quartering that night at Clun<g ref="char:EOLhyphen"/>mullen,
+<pb n="5" facs="tcp:161299:4"/>
+riſeth in the night, marching away with all the ſpeed he could poſſible.</p>
+            <p>Saturday the ſixth, the Governour followes him with Horſe and Foot, ſending our parties ſeverall waies to ſtop him in his courſe, but the Rebels had that day not reſted untill they had gotten over the black Ford beyond Clon-Curry into Briminghams Countrey, a place boggy and woody, and to them of great advantage.</p>
+            <p>The Governour hereupon leaving the Foot at Balfeg<g ref="char:EOLhyphen"/>ham, 13 miles from Dublin, he the ſeventh followed the Enemy with the horſe; but the Rebels marching all the night before, had betimes this morning recovered their former retiring place at Caſtle-Jordan. This night the Go<g ref="char:EOLhyphen"/>vernour came back to the Foot at Bulfegham, and the next day (having diſmiſt his additionall Forces) he with the reſt march back to Dublin.</p>
+            <p>The Enemy loſt 500 of their men, and in their great haſte caſt off many of their Knapſacks and baggage, which ours tooke up. It was not for the Governour to ingage his horſe, they not having a grayne of Oats, nor money, or Quarters, for eight weeks before, neither any thing elſe but what they gained by daily inroades upon the Enemies quarters, whereby the horſe were ſo worne out, that had not neceſſity enforced, they had not been fit to appeare in ſervice, therefore was it not ſafe to ingage them eſpecially ſevered from the foot, againſt ſo great a power of the Ene<g ref="char:EOLhyphen"/>mies horſe and Foot, wherein had there been any miſcar<g ref="char:EOLhyphen"/>riage, this city and Province had been undoubtedly loſt, and the whole Kingdome endangered. And here I muſt give you the Governours words to me diſcourſing of this, That although he ſhould have had the fortune with his horſe alone, to have defeated the power of the Enemies, yet he deſerved to ſuffer for hazarding ſo lighty ſo many
+<pb n="6" facs="tcp:161299:5"/>
+and great intereſts; knowing the weakneſſe of his horſe, but after the coming up of his foot, he doubted not then to put all to a day, though the Rebels were many to one, and had done it, had it been poſſible to overtake that co<g ref="char:EOLhyphen"/>wardly and runaway Enemy. You have, Sir, in this the per<g ref="char:EOLhyphen"/>fecteſt and moſt diſtinct accompt I can give of theſe parti<g ref="char:EOLhyphen"/>culars, wherein you have in ſhort the whole ſtate of the party here, not to be kept together, wanting wherewith<g ref="char:EOLhyphen"/>all ſo to keepe them, and being diſperſed (as of neceſſity they muſt be for a ſubſiſtence) they or the Country lying open to ſpoile, before an Enemy entring almoſt our very gates, can be diſputed with. Sir, it is there to put us into a condition whereby theſe evils may be prevented, and for enabling yours here to ſerve you as they earneſtly deſire. By Captaine <hi>Pierce</hi> (one of ours being priſoner with the Rebels at Kilkenny) returned hither on exchange. The Governour hath been given to underſtand that the com<g ref="char:EOLhyphen"/>mon voyce at Kilkenny was, That Sir <hi>Bryon O Neile</hi> (here reſident) is one ſerviceable to the Enemy in the way of in<g ref="char:EOLhyphen"/>telligence, whereupon he is committed, the Governour ex<g ref="char:EOLhyphen"/>pecting (I believe) directions thence for diſpoſing of him. Pardon this great boldneſſe of</p>
+            <closer>
+               <salute>Sir</salute>
+               <signed>Your moſt aſſured to ſerve you, <hi>H. C.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dublin</hi> 
+                  <date>10. <hi>Novemb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Novemb. 22. <hi>Imprrmatur Gilb. Mabbot.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
